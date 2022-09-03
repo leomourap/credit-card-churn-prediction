@@ -76,7 +76,7 @@ customers.
 ![image](https://user-images.githubusercontent.com/105673165/188080978-ff41186c-46e2-4b3c-ae44-f68b89c539e4.png)
 
 #### The model performed pretty well in the simulation, with an recall of 0.9268.
-*Recall is the best metric in this case, because it indicates our accuracy concerning the True Positives (Potential Churn Customers).
+*Recall is the best metric in this case, because it indicates our accuracy concerning the True Positives and False Negatives (Potential Churn Customers).
 
 ![image](https://user-images.githubusercontent.com/105673165/188260547-cebbdff7-f68a-4fa2-9aa3-2263998b9de5.png)
 

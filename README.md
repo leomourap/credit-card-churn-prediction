@@ -81,3 +81,12 @@ customers.
 ![image](https://user-images.githubusercontent.com/105673165/188260547-cebbdff7-f68a-4fa2-9aa3-2263998b9de5.png)
 
 *We correct predicted 76 customers with churn potential, from 82 in total (so, the model missed 6 other customers).
+
+##
+
+## Link References:
+PyCaret Github - Classification Tutorial:
+https://github.com/pycaret/pycaret/blob/master/tutorials/Binary%20Classification%20Tutorial%20Level%20Beginner%20-%20%20CLF101.ipynb
+
+Mario Caesar's Kaggle notebook - Credit Card approval prediction w/ PyCaret:
+https://www.kaggle.com/code/caesarmario/credit-card-approval-prediction-w-pycaret/notebook#5.-|-Saving-Model-and-Predictions-%F0%9F%92%BE

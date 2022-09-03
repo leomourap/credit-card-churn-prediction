@@ -89,4 +89,4 @@ PyCaret Github - Classification Tutorial:
 https://github.com/pycaret/pycaret/blob/master/tutorials/Binary%20Classification%20Tutorial%20Level%20Beginner%20-%20%20CLF101.ipynb
 
 Mario Caesar's Kaggle notebook - Credit Card approval prediction w/ PyCaret:
-https://www.kaggle.com/code/caesarmario/credit-card-approval-prediction-w-pycaret/notebook#5.-|-Saving-Model-and-Predictions-%F0%9F%92%BE
+https://www.kaggle.com/code/caesarmario/credit-card-approval-prediction-w-pycaret

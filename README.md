@@ -18,6 +18,17 @@ card category, etc. There are nearly 18 features.
   - We have only 16.07% of customers who have churned. Thus, it's a bit difficult to train our model to predict churning 
 customers.
 
+#### The libraries i utilized were:
+  - pandas
+  - numpy
+  - pandas_profiling
+  - pycaret
+  - sklearn
+  - seaborn
+  - matplotlib
+
+*---------------------------------------------------------------------------------------------------------------------------------*
+
 ##
 
 #### In this project i'm gonna use the PyCaret (an "auto Machine Learning toolkit") librarie to model the problem solution.

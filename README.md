@@ -31,7 +31,7 @@ customers.
 
 ##
 
-#### In this project i'm gonna use the PyCaret (an "auto Machine Learning toolkit") librarie to model the problem solution.
+#### In this project i'm gonna use the PyCaret (an "auto Machine Learning toolkit") library to model the problem solution.
 
 #### I'm also gonna use a more automated Exploratory Data Analysis tool - the Pandas Profiling.
 
@@ -86,12 +86,12 @@ customers.
 ![image](https://user-images.githubusercontent.com/105673165/188080928-f72f1041-7f93-4d5f-8d03-5bc23c29f698.png)
 ![image](https://user-images.githubusercontent.com/105673165/188080978-ff41186c-46e2-4b3c-ae44-f68b89c539e4.png)
 
-#### The model performed pretty well in the simulation, with an recall of 0.9268.
+#### The model performed pretty well in the simulation, with a recall of 0.9268.
 *Recall is the best metric in this case, because it indicates our accuracy concerning the True Positives and False Negatives (Potential Churn Customers).
 
 ![image](https://user-images.githubusercontent.com/105673165/188260547-cebbdff7-f68a-4fa2-9aa3-2263998b9de5.png)
 
-*We correct predicted 76 customers with churn potential, from 82 in total (so, the model missed 6 other customers).
+*We correctly predicted 76 customers with churn potential, from 82 in total (so, the model missed 6 other customers).
 
 ##
 
